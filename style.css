@@ -1,0 +1,23 @@
+h1, h2 {
+  font-family: 'Germania One', cursive;
+  color: darkmagenta;
+  text-align: center;
+}
+
+body {
+  font-family: 'Indie Flower', cursive;
+  color: darkmagenta;
+}
+
+#image {
+  float: left;
+  margin: 10px 20px 10px 20px;
+}
+
+
+.centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
